@@ -1,4 +1,4 @@
-module github.com/zcahana/palgate-lib
+module github.com/zcahana/palgate-sdk
 
 go 1.16
 
