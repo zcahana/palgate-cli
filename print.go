@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	palgate "github.com/zcahana/palgate-lib"
+	palgate "github.com/zcahana/palgate-sdk"
 )
 
 var columns = []struct {

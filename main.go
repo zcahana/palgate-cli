@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	palgate "github.com/zcahana/palgate-lib"
+	palgate "github.com/zcahana/palgate-sdk"
 )
 
 func main() {
