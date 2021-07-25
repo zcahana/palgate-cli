@@ -1,6 +1,6 @@
 # PalGate Experiment
 
-A little experimental tool to tinker around with [PalGate](https://www.pal-es.com/) devices (parking gates, etc).
+A little experimental tool (and [SDK](https://github.com/zcahana/palgate-sdk)) to tinker around with [PalGate](https://www.pal-es.com/) devices (parking gates, etc).
 
 ## Install
 
