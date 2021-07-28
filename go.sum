@@ -293,8 +293,8 @@ github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9de
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
-github.com/zcahana/palgate-sdk v0.0.0-20210725222750-0558f3e7477e h1:fM2VHNikR1F2WaYAUJmTcDm9iloeCeUa4odZ0BkWcTQ=
-github.com/zcahana/palgate-sdk v0.0.0-20210725222750-0558f3e7477e/go.mod h1:nyLTI9exE5KwSHcGWtQ2pkUXpAsP9wQj50RzRgCz15o=
+github.com/zcahana/palgate-sdk v0.0.0-20210728104233-858fa2992a5a h1:eZrhpTsAKx4BQ0iMnmL36UWRojKw4jxewQ8DL5UmhEg=
+github.com/zcahana/palgate-sdk v0.0.0-20210728104233-858fa2992a5a/go.mod h1:nyLTI9exE5KwSHcGWtQ2pkUXpAsP9wQj50RzRgCz15o=
 go.etcd.io/bbolt v1.3.2/go.mod h1:IbVyRI1SCnLcuJnV2u8VeU0CEYM7e686BmAb1XKL+uU=
 go.etcd.io/etcd/api/v3 v3.5.0/go.mod h1:cbVKeC6lCfl7j/8jBhAK6aIYO9XOjdptoxU/nLQcPvs=
 go.etcd.io/etcd/client/pkg/v3 v3.5.0/go.mod h1:IJHfcCEKxYu1Os13ZdwCwIUTUVGYTSAM3YSwc9/Ac1g=
